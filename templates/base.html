@@ -1,0 +1,15 @@
+{% extends "bootstrap/base.html" %}
+{% block html_attribs %} lang="en"{% endblock %}
+{% block title %}Sample App for Flask-Bootstrap{% endblock %}
+{% import "bootstrap/fixes.html" as fixes %}
+{% block styles %}
+{{super()}}
+{% endblock %}
+<body>
+    {% block body %}
+
+    {% endblock%}
+</body>
+{% block scripts %}
+{{super()}}
+{% endblock %}

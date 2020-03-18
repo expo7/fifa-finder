@@ -1,0 +1,16 @@
+form {
+    text-align:;
+    color: black;
+    text-align: right;
+    padding-top: 10vh;
+    padding-bottom: 80vh;
+   
+}
+
+body {
+
+    background: url("../img/fifa-20.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
